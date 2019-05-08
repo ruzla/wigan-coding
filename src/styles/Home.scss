@@ -1,0 +1,64 @@
+.home-main-div {
+  text-align: center;
+  font-family: 'Gugi', cursive;
+
+}
+
+.home-content-text-div {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: row;
+  width: auto;
+  height: auto;
+  border-bottom: 1px solid #000;
+  margin-bottom: 10px;
+}
+
+img {
+  width: 450px;
+  height: 450px;
+  margin: 10px;
+}
+
+.code-p {
+  font-size: 15px;
+  color: #000;
+}
+
+.info-img {
+display: flex;
+justify-content: center;
+align-content: center;
+flex-direction: row;
+padding: 20px;
+}
+
+.fa-html5 {
+  color: #d60004;
+  padding: 20px;
+  font-size: 150px;
+ 
+}
+
+.fa-css3-alt {
+  color: #248aff;
+  padding: 20px;
+  font-size: 150px;
+
+
+}
+
+.fa-js-square {
+  color: #fffb24;
+  padding: 20px;
+  font-size: 150px;
+
+}
+
+.code-logo-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}

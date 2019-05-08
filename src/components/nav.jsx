@@ -16,7 +16,6 @@ class Nav extends React.Component {
           <p>A place for developers and coding newbies</p>
         </div>
         <div className="nav-icons-div">
-          <p className="icon-p">Contact us here:</p>
           <a href="https://www.facebook.com/Rybrockers/" target="blank"><i className="fab fa-facebook-square"></i></a>
           <a href="https://twitter.com/WiganUp?lang=en-gb" target="blank"><i className="fab fa-twitter-square"></i></a>
           <a href="https://github.com/Wigan-Coding-Meet-Up" target="blank"><i className="fab fa-github"></i></a>

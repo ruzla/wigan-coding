@@ -4,6 +4,9 @@
   justify-content: center;
   align-items: center;
   flex-direction: row;
+  padding: 10px;
+  width: 100%;
+  height: auto;
 }
 
 .nav-header-div {
@@ -34,11 +37,12 @@ p {
   align-items: center;
   flex-direction: row;
   width: 25%;
+  height: auto;
 }
 
 .nav-header {
   font-family: 'Gugi', cursive;
-  margin-left: 50px;
+  margin-left: 35px;
 }
 
 .fa-facebook-square {
@@ -68,4 +72,8 @@ p {
   padding: 10px;
   font-size: 30px;
 
+}
+
+.fa-laptop-code {
+  margin-left: 20px;
 }
